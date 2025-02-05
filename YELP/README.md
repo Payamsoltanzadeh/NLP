@@ -15,9 +15,9 @@ Data Science Student at Uni Milano
 - **Model Training & Evaluation:** Splitting data, training the model, and evaluating performance.
 
 ## Repository Structure
-├── data
+├── dataset
 │   └── yelp.csv                # Yelp reviews dataset
 ├── notebooks
-│   └── NLP_Yelp_Reviews.ipynb    # Jupyter Notebook with the complete project workflow
+│   └── NLP_Yelp.ipynb    # Jupyter Notebook with the complete project workflow
 ├── README.md                   # This file
 
