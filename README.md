@@ -19,7 +19,5 @@ Data Science Student at Uni Milano
 │   └── yelp.csv                # Yelp reviews dataset
 ├── notebooks
 │   └── NLP_Yelp_Reviews.ipynb    # Jupyter Notebook with the complete project workflow
-├── scripts
-│   └── nlp_project.py          # Python script version of the project
 ├── README.md                   # This file
-└── requirements.txt            # List of required Python packages
+
