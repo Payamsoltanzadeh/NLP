@@ -1,6 +1,6 @@
 # NLP Yelp Reviews Classification Project
 
-Welcome to my NLP project repository! This project is part of my Data Science studies at Uni Milano. In this project, I explore NLP techniques to classify Yelp reviews into 1-star and 5-star reviews.
+Welcome to my NLP NATURAL LANGUAGE PROCESSING project repository! This project is part of my Data Science studies at Uni Milano. In this project, I explore NLP techniques to classify Yelp reviews into 1-star and 5-star reviews.
 
 ## About Me
 
